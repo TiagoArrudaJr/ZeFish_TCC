@@ -1,0 +1,41 @@
+Neste projeto, atuei diretamente no desenvolvimento e estruturação de diferentes partes do sistema ZéFish, contribuindo tanto na camada de frontend quanto na integração com backend e banco de dados.
+
+
+Desenvolvimento Frontend
+
+- Estruturação de páginas utilizando HTML
+- Estilização com CSS e utilização do framework Bootstrap
+- Implementação de layout responsivo (mobile-first)
+- Desenvolvimento de componentes visuais como:
+  - Header responsivo com menu hambúrguer
+  - Seções informativas (tipos de pesca, regras, recursos)
+  - Cards interativos para navegação
+  - Footer padronizado
+- Aplicação de boas práticas de UI/UX (usabilidade, organização visual e hierarquia de informações)
+- Implementação de acessibilidade básica:
+  - Uso de atributos `alt` em imagens
+  - Uso de atributos ARIA
+  - Estrutura semântica adequada
+
+Integração e Backend
+
+- Participação na integração com banco de dados MySQL
+- Auxílio na lógica de autenticação de usuários (login/cadastro)
+- Contribuição na organização do fluxo de dados entre frontend e backend
+
+Versionamento e Organização
+
+- Utilização de Git para versionamento do projeto
+- Trabalho com branches e commits
+- Colaboração em equipe seguindo uma abordagem inspirada em Scrum (uso de sprints)
+
+Engenharia de Software
+
+- Participação no levantamento de requisitos funcionais e não funcionais
+- Contribuição na modelagem do sistema (UML e organização estrutural)
+- Aplicação de boas práticas de desenvolvimento e organização de código
+
+Considerações
+
+Minha atuação no projeto foi focada principalmente na construção da interface do sistema e na integração com outras camadas da aplicação, garantindo uma experiência de usuário intuitiva, responsiva e funcional.
+Além disso, participei ativamente da organização do projeto e da aplicação de conceitos de engenharia de software, contribuindo para a construção de uma solução completa e alinhada às necessidades do problema proposto.
